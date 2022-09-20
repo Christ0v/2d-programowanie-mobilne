@@ -1,1 +1,1 @@
-# 2d-programowanie-mobilne
+# 3d-programowanie-mobilne
